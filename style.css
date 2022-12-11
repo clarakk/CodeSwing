@@ -1,6 +1,12 @@
 h1 {
     color: blue;
 }
-.image_container {
+h2 {
+    color: brown;
+    text-align: center;
+}
+.image {
+    height: 100px;
+    width: 100px;
 text-align: center;
 }
