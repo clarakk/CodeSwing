@@ -6,7 +6,18 @@ h2 {
     text-align: center;
 }
 .image {
-    height: 100px;
-    width: 100px;
+    height: auto;
+    width: auto;
+    object-fit: contain;
 text-align: center;
+}
+img {
+    width: auto;
+    height: 100px;
+}
+.quadrato {
+    border: 2px solid red;
+    height: 300px;
+    width: 300px ;
+    margin: 20px auto;
 }
